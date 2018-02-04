@@ -10,4 +10,4 @@
 
 ## 打包
 使用 spring boot 开发，直接使用 gradle 打成 war 包即可
-[新手](https://github.com/zipingdong/datax-web/blob/master/snapshot/markdown.png)
+[新手](https://github.com/zipingdong/datax-web/blob/master/snapshot/war.png)
