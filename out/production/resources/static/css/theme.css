@@ -1,0 +1,22 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.plugin-list {
+    margin-top: 8px;
+}
+
+.marginright {
+    margin-right: 2px;
+}
+
+.padding0 {
+    padding-top: 6px;
+}
+
+.center-vertical{
+  position: relative;
+  top: 50%;
+  transform: translateY(-10%);
+} 
